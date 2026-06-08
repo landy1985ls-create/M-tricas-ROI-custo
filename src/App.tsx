@@ -450,7 +450,7 @@ export default function App() {
           <div className="flex items-center gap-2">
             <span className="p-1 px-2.5 bg-indigo-600 rounded text-xs font-black font-mono tracking-wider text-white shadow-sm">MMP</span>
             <h1 className="text-xl font-bold tracking-tight">
-              MarginMaster Pro <span className="text-indigo-400 font-light text-base hidden md:inline">| ROI, Mercado Livre & Shopee Sourcing</span>
+              MarginMaster Pro <span className="text-indigo-400 font-light text-base hidden md:inline">| ROI, Mercado Livre & Shopee | Custos de Retirada</span>
             </h1>
           </div>
           <p className="text-slate-400 text-[10px] mt-1 uppercase tracking-widest flex items-center gap-2 font-mono">
@@ -697,7 +697,7 @@ export default function App() {
             <div className="bg-slate-50 border border-slate-200 p-3 rounded-lg text-left">
               <span className="text-[9px] font-extrabold text-slate-500 uppercase tracking-widest flex items-center gap-1.5">
                 <Cpu className="w-3 h-3 text-indigo-500" />
-                Vercel Status
+                Status do Servidor
               </span>
               <div className="flex items-center text-[11px] text-emerald-600 font-semibold mt-1">
                 <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 mr-1.5 animate-pulse"></span>
@@ -1162,7 +1162,7 @@ export default function App() {
                   {/* Cost Price */}
                   <div>
                     <label className="block text-[10px] font-extrabold text-indigo-700 uppercase mb-1 flex items-center gap-1.5">
-                      <Store className="w-3 h-3" /> Cost Fornecedor (R$)
+                      <Store className="w-3 h-3" /> Custo Fornecedor (R$)
                     </label>
                     <div className="relative">
                       <span className="absolute inset-y-0 left-2.5 flex items-center text-slate-400 font-mono text-xs">R$</span>
