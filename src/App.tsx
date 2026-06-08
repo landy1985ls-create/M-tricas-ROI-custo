@@ -3,6 +3,8 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
+// Versão de Ajuste Auto-Trigger Vercel: Correção de caminhos relativos para index.html e src/main.tsx
+
 import React, { useState, useEffect, useMemo } from 'react';
 import { 
   Plus, 
